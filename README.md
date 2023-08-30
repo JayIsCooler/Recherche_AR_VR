@@ -12,7 +12,8 @@ La réalité virtuelle est une technologie qui crée un environnement artificiel
 
 Les casques de réalité virtuelle sont munies de un ou deux écrans LCD ou Oled placer devant les yeux de l'utilisateur pour réduire les interactions avec le monde réelle. Ces casques fonctionne par stéréoscopie, une technique qui permet au cerveau de percevoir un relief. Il y a des lentilles placées entre les écrans et les yeux de l'utilisateur qui permettent de focaliser l'image renvoyer par le casque pour chaque oeil. L'image est créée en fonction de la position de la tête et des yeux de l'utilisateur. Cette image va bouger avec les mouvements de la tête de l'utilisateur et le logiciel va adapter point de vue en conséquence.
 
-
+![Lentilles](img/lentilles.jpg)
+![Caméra](img/camera.jpg)
 
 
 ## La réalité augmentée qu'est-ce que c'est ?
