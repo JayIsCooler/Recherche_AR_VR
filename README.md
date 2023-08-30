@@ -29,7 +29,7 @@ L'utilsateur va être muni d'un casque de réalité virtuelle. Les caméras int�
 
 ![Teinte de gris vers rgb](img/couleurs.jpg)
 ![Raspberry pi](img/pi.jfif)
-
+![camera monter sur le casque](img/webCam.jpg)
 
 
 
