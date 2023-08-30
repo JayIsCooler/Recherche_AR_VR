@@ -22,7 +22,7 @@ La réalité augmenter est la superposition de la réalité et d'éléments comm
 
 La réalité augmentée va bientôt faire ses débuts sur oculus quest 2 et permettre au dévleppeur d'explorer cette facette du multimédia en créant des jeux ou des expériences intéractive. Facebook qui est la compagnie qui produit les casques de réalité virtuelle de la marque oculus va se servir des quatres caméras présente sur le casque. Ces caméras sont assez performante mais limiter au noir et blanc pour l'instant mais grâce à l'usage de l'intelligence artificielle il serait possible de rajouter de la couleur à l'image. Ce n'est pas optimale pour le moment et toujours en développement mais peut-être que dans le future cette technologie sera plus avancer et permettra de plus grande possibilité au niveau des projets intéractifs et dans le monde du jeux vidéo.
 
-![Apple Vsion](img/vision.jpg)
+![Apple Vision](img/vision.JPG)
 
 # Concepte de projet en réalité augmentée
 
