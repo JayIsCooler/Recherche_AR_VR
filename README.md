@@ -19,7 +19,7 @@ Les casques de réalité virtuelle sont munies de un ou deux écrans LCD ou Oled
 
 La réalité augmenter est la superposition de la réalité et d'éléments comme des sons, des images 2D et 3D, des vidéos et autres qui est calculer par un système informatique en temps réel. Cette technologie permet donc d'intégrer des objets virtuels de façon réaliste dans une séquence d'image. La réalité augmentée est utiliser dans plusieurs domaine telles que les jeux vidéos, le cinéma, la télévision, le tourisme, le pilotage,
 
-
+![Mario kart AR](img/AR.jpg)
 
 
 
