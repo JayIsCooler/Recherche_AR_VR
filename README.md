@@ -1,4 +1,4 @@
-# La Réalité virtuelle et la réalité augmenter
+# La Réalité virtuelle et la réalité augmentée
 
 ## La réalité virtuelle qu'est-ce que c'est ?
 
