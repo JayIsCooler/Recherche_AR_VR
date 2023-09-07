@@ -15,4 +15,4 @@ Pour notre projet nous allons utiliser le petit studio pour mettre notre install
 
 ### Source
 - https://fr.wikipedia.org/wiki/Spatialisation_sonore
-- https://www.sony.ca/en/electronics/360-reality-audio
+- https://www.sony.ca/en/electronics/360-reality-audio 
