@@ -11,3 +11,8 @@ Les sons distants étant moins puissant auront des niveaux sonores plus bas pour
 
 # Concept pour le projet
 Pour notre projet nous allons utiliser le petit studio pour mettre notre installation interactive. Cette dernière va utiliser des capteurs pour détecter des images et les projecteurs pour afficher notre projet sur les trois murs du studio. Pour rendre le tout plus immersif, la sonorisation de notre projet serait plus interessante en spacialisation 3D ce qui viendrais complémenter les projecteurs qui afficherait aussi en vue presque 360 dans le petit studio.
+
+
+### Source
+https://fr.wikipedia.org/wiki/Spatialisation_sonore
+https://www.sony.ca/en/electronics/360-reality-audio
