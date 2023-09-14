@@ -12,7 +12,25 @@ Les sons distants étant moins puissant auront des niveaux sonores plus bas pour
 # Concept pour le projet
 Pour notre projet nous allons utiliser le petit studio pour mettre notre installation interactive. Cette dernière va utiliser des capteurs pour détecter des images et les projecteurs pour afficher notre projet sur les trois murs du studio. Pour rendre le tout plus immersif, la sonorisation de notre projet serait plus intéressante en spatialisation 3D ce qui viendrait complémenter les projecteurs qui afficheraient aussi en vue presque 360 dans le petit studio.
 
+# Spat Ircam
+Spat est un plugin fait pour la spatialisation du son en temps réel et est utiliser pour la création de musique, postproduction et des performances en directe.
 
+
+
+# Pourquoi avoir choisi Spat ?
+Spat est un plugin du logiciel max qui est un logiciel que l'ont va utiliser pour notre projet donc tout avoir au même endroit permet d'éviter des tonnes de fichiers et de logiciels different. Nous allons utiliser spat avec des haut-parleurs, car lorque l'utilisateur va se déplacer le son doit pouvoir s'éloigner à contraire des écouteurs qui eux garde le même niveau sonore peut importe notre position dans la pièce.
+
+# Que permet Spat ?
+Spat permet de faire de la réverbération artificielle(Réverbération algorithmique évolutive), du contrôle perceptuel de la qualité acoustique de la pièce(Brillance,proximité d'une source sonore), de la procession de signal à bas niveau(Égalisation). Spat possède une interface graphique qui permet de controller et voir la scène de son spatialiser.
+
+# Dans quelle domaine est-ce que Spat est applicable
+Spat est applicable dans des composition musicales, films, réalité virtuelle, sonorisation et même durant des installations sonore en temps réel.
+
+
+# Démo Spat
+[Démo](https://www.youtube.com/watch?v=P23ipG_EfBI)
 ### Source
 - https://fr.wikipedia.org/wiki/Spatialisation_sonore
-- https://www.sony.ca/en/electronics/360-reality-audio 
+- https://www.sony.ca/en/electronics/360-reality-audio
+- https://www.youtube.com/watch?v=P23ipG_EfBI
+- https://forum.ircam.fr/projects/detail/spat/#project-related-anchor
