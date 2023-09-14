@@ -13,7 +13,7 @@ Les sons distants étant moins puissant auront des niveaux sonores plus bas pour
 Pour notre projet nous allons utiliser le petit studio pour mettre notre installation interactive. Cette dernière va utiliser des capteurs pour détecter des images et les projecteurs pour afficher notre projet sur les trois murs du studio. Pour rendre le tout plus immersif, la sonorisation de notre projet serait plus intéressante en spatialisation 3D ce qui viendrait complémenter les projecteurs qui afficheraient aussi en vue presque 360 dans le petit studio.
 
 # Spat Ircam
-Spat est un plugin fait pour la spatialisation du son en temps réel et est utiliser pour la création de musique, postproduction et des performances en directe.
+Spat est un plugin fait pour la spatialisation du son en temps réel et est utiliser pour la création de musique, postproduction et des performances en direct.
 
 
 
