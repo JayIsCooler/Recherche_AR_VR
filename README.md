@@ -15,7 +15,7 @@ Pour notre projet nous allons utiliser le petit studio pour mettre notre install
 # Spat Ircam
 Spat est un plugin fait pour la spatialisation du son en temps réel et est utiliser pour la création de musique, postproduction et des performances en direct.
 
-
+![shema spat](img/spat.png)
 
 # Pourquoi avoir choisi Spat ?
 Spat est un plugin du logiciel max qui est un logiciel que l'ont va utiliser pour notre projet donc tout avoir au même endroit permet d'éviter des tonnes de fichiers et de logiciels different. Nous allons utiliser spat avec des haut-parleurs, car lorque l'utilisateur va se déplacer le son doit pouvoir s'éloigner à contraire des écouteurs qui eux garde le même niveau sonore peut importe notre position dans la pièce.
