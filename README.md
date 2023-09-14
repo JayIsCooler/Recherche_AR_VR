@@ -32,7 +32,6 @@ Spat est applicable dans des composition musicales, films, réalité virtuelle, 
 
 # Projets
 - [Projets](https://forum.ircam.fr/topics/detail/45-Spat5/)
-- [Performance](https://www.youtube.com/watch?v=6m0TEspgqU8)
 ### Source
 - https://fr.wikipedia.org/wiki/Spatialisation_sonore
 - https://www.sony.ca/en/electronics/360-reality-audio
