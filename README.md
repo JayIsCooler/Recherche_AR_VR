@@ -10,7 +10,7 @@ Les sons distants étant moins puissant auront des niveaux sonores plus bas pour
 ![audio_schema](img/audio_schema.jpg)
 
 # Concept pour le projet
-Pour notre projet nous allons utiliser le petit studio pour mettre notre installation interactive. Cette dernière va utiliser des capteurs pour détecter des images et les projecteurs pour afficher notre projet sur les trois murs du studio. Pour rendre le tout plus immersif, la sonorisation de notre projet serait plus intéressante en spatialisation 3D ce qui viendrait complémenter les projecteurs qui afficheraient aussi en vue presque 360 dans le petit studio.
+Pour notre projet nous allons utiliser le petit studio pour mettre notre installation interactive. Cette dernière va utiliser des capteurs pour détecter des images et les projecteurs pour afficher notre projet sur les trois murs du studio. Pour rendre le tout plus immersif, la sonorisation de notre projet serait plus intéressante en spatialisation 3D ce qui viendrait complémenter les projecteurs qui afficheraient aussi en vue presque 360 dans le petit studio. Dans le projet, l'utilisation de spat sera en lien avec la table qui scan les statues. La table va produire un son 360 degrées dans la pièce lorsqu'un objet va être scanner et lorsqu'une action va se produire. La table sera donc le centre des sons pour le projet. Des hauts parleurs seront cacher dans la table de façon à pouvoir projeter le son dans toutes les directions.
 
 # Spat Ircam
 Spat est un plugin fait pour la spatialisation du son en temps réel et est utiliser pour la création de musique, postproduction et des performances en direct.
