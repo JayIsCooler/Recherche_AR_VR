@@ -14,7 +14,7 @@ Pour notre projet nous allons utiliser le petit studio pour mettre notre install
 
 
 ![Plan_table_devant](img/Plan_devant.png)
-![Plan_table_dessus](img/Plan_dessus.png)
+![Plan_table_dessus](img/Plan_haut.png)
 
 
 
